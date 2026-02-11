@@ -27,13 +27,13 @@ The digital experience is anchored in the firm’s core values:
 
 ---
 
-## 📂 Repository Contents
-* **`/Documentation`**: 
-BRD:(https://www.notion.so/Business-Requirement-Documentation-Lucid-Point-Consult-304ae8530fae80198371e3892255f84a?source=copy_link)
-Process Flowcharts:
+## 📂 Documentation and Repository Contents
+* **`BRD`**: 
+https://www.notion.so/Business-Requirement-Documentation-Lucid-Point-Consult-304ae8530fae80198371e3892255f84a?source=copy_link
+* **`Company Profile`**:
+* **`Process Flowcharts`**
+* **`Brand guidelines`**: 
 
-* **`/Assets`**: 
-Brand guidelines
 
 ---
 > **Note:** For the full Business Requirement Documentation (BRD) and real-time project tracking, please refer to our internal **Notion** workspace.
