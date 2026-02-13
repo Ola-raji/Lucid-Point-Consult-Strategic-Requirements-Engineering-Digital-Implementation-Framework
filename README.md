@@ -3,7 +3,7 @@
 ## 📖 About the Project
 This project involves the strategic design and development of a comprehensive digital ecosystem for **Lucid Point Consult**, a premier financial and management consulting firm based in Nigeria. The firm positions itself as "architects of sustainable success," standing at the intersection of deep financial expertise and transformative business strategy.
 
-The primary objective is to transition the firm’s brand into a high-authority digital asset that functions as a reputation builder, a sales funnel, and a specialized knowledge platform. The website is designed to mirror the firm’s commitment to technical excellence and intelligent innovation, providing a gateway for visionary leaders to turn challenges into competitive advantages.
+The primary objective is to transition the firm’s brand into a high-authority digital asset that functions as a reputation builder, a sales funnel, and a specialized knowledge platform. The website is designed to mirror the firm’s commitment to technical excellence and intelligent innovation, providing a gateway for visionary leaders to turn challenges into competitive advantages. 
 
 ## 🏗️ Scope of Services
 The platform is built to showcase and facilitate the firm’s multi-disciplinary service portfolio:
