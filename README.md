@@ -10,15 +10,6 @@ The primary objective of this project is to transition the firm’s brand into a
 - Miro: Ideation
 - Canva: Profile deck
 
-## 🏗️ Scope of Services
-The platform is built to showcase and facilitate the firm’s multi-disciplinary service portfolio:
-* **Audit & Assurance:** Providing rigorous, independent assurance to strengthen governance and build stakeholder confidence.
-* **Tax Advisory & Compliance:** Utilizing deep technical expertise to optimize tax positions and maintain compliance.
-* **Financial Advisory & Risk Management:** Partnering with clients for strategic capital deployment and systematic value protection.
-* **Business Advisory:** Backing bold leadership decisions with rigorous analysis and operational transformation.
-* **Accounting Services:** Delivering high-integrity IFRS-compliant reporting and bookkeeping.
-* **Professional Training:** Developing technical excellence and strategic thinking to build organizational capability.
-
 ## 🎯 Strategic Intent
 The project is guided by the firm's mission to *"architect financial excellence through intelligence, integrity, and impact"*. By serving diverse industries—including **Financial Services, Manufacturing, Healthcare, Consumer Hospitality, Real Estate & construction and the Public Sector**—the platform aims to set new standards for professional services in Nigeria. 
 
