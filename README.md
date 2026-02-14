@@ -30,6 +30,6 @@ The digital experience is anchored in the firm’s core values:
 ## 📂 Documentation and Repository Contents
 - [**BRD**](https://www.notion.so/Business-Requirement-Documentation-Lucid-Point-Consult-304ae8530fae80198371e3892255f84a?source=copy_link)
 - [**Company Profile**](https://github.com/Ola-raji/Lucid-Point-Consult-Strategic-Requirements-Engineering-Digital-Implementation-Framework/blob/08008678254246ecefd75926e7a0e1450c095abb/Lucid%20Point%20Consult%20Profile%20Slide%20Deck.pdf)
-* **`Process Flowcharts`**
+- [**Process-Flow Maps**](https://github.com/Ola-raji/Lucid-Point-Consult-Strategic-Requirements-Engineering-Digital-Implementation-Framework/blob/main/Professional%20Training%20Transaction%20Flow.pdf) or Lucid charts direct [link](https://lucid.app/lucidchart/c0ce2e82-8de2-4c66-b067-6adef98d1451/edit?viewport_loc=-47%2C-11%2C1372%2C796%2ClmCwbVVvPT38&invitationId=inv_4b6c762b-3128-4916-9ede-3d5292d5298f)
 * **`Brand guidelines`**: 
 
